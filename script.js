@@ -1,7 +1,7 @@
 const movies = [
   {
     title: "Film Démo",
-    poster: "https://via.placeholder.com/300x450?text=Film",
+    poster: "https://drive.google.com/file/d/1JcSctLACAj58HPTQVC1vdhJVNTZJphVx/view?usp=drive_link",
     video: "videos/sample.mp4"
   }
 ];
